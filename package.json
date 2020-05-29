@@ -2,7 +2,7 @@
   "name": "pb-benchmark",
   "version": "0.0.1-dev",
   "description": "A simple bot to test the project-blue aka @klasa/core library",
-  "main": "dist/index.js",
+  "main": "dist/src/index.js",
   "author": "Jacz <itsmejacz@gmail.com> (jacz.com.au)",
   "license": "MIT",
   "private": false,
