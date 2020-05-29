@@ -62,4 +62,4 @@ build/
 
 # Custom
 dist
-config.task
+config.ts
